@@ -4,10 +4,6 @@ node_modules/
 # Ignore npm debug log
 npm-debug.log
 
-# Ignore any files or directories prefixed with . or _
-.*.*
-_*.*
-
 # Ignore .env files
 */.env
 
@@ -17,4 +13,4 @@ _*.*
 /.vscode/
 /dist/
 /.cache/
-/.DS_Store
+*/.DS_Store
